@@ -1,3 +1,0 @@
-﻿  practice.c
-D:\C\2024_code\2024_7_1\2024_7_1\practice.c(115,11): warning C4013: “fib”未定义；假设外部返回 int
-  2024_7_1.vcxproj -> D:\C\2024_code\2024_7_1\Debug\2024_7_1.exe
